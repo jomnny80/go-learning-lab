@@ -1,0 +1,3 @@
+Learning Go File I/O
+Reading and writing files
+New line appended by Go
